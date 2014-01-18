@@ -33,6 +33,5 @@
     "psr-0": { "RedKiteLabs\\ThemeEngineBundle": ""
     }
   },
-  "minimum-stability": "dev",
   "target-dir" : "RedKiteLabs/ThemeEngineBundle"
 }
